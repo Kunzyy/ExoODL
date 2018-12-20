@@ -1,0 +1,19 @@
+= ODL - exercice intégré
+François Roland <francois.roland@umons.ac.be>
+2017-11-16
+
+Ce dépôt contient une structure de projet vide pour l'exercice intégré.
+
+= Structure
+
+`src/main/java`:: Code de production.
+`src/main/asciidoc`:: Documentation asciidoc.
+`src/main/test`:: Code de test.
+`README.adoc`:: Ce fichier.
+
+Seul le code de production est obligatoire.
+Les autres répertoires et la configuration qui y est liée ne sont présents qu'à titre d'outil.
+Vous n'êtes pas obligés de les utiliser étant donné qu'ils ne font pas partie du cadre du cours ou des TPs. 
+
+NOTE: Des fichiers `.gitkeep` ont été créés pour s'assurer que git recréée bien les répertoires sur votre machine.
+Ils n'ont pas d'autre utilité et peuvent être supprimés.
